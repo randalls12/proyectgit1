@@ -5,5 +5,7 @@
 3. git add . : Agrega archivos del working directory al stagin area
 4. git commit -m : Agrega archivos del stagin area al repositorio git .
 5. git log : te lista todos los commits realidados .
-6. git log --oneline
+6. git log --oneline : 
 7.  tecla esc :wq + enter
+8. gitignore : Ignora archivos y carpetas
+9. git push -u origin main : Sube archivo a repositorio
